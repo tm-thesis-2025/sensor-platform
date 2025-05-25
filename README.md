@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 | Supported Targets | ESP32-C6 | ESP32-H2 |
 | ----------------- | -------- | -------- |
 
@@ -130,3 +131,6 @@ The following examples are supported by `ot_cli`:
 * TCP and UDP Example
 * Iperf Example
 
+=======
+# sensor-platform
+>>>>>>> 7111834dc3eb2c2c14fdf128f691d44ec67ef708
