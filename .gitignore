@@ -1,0 +1,33 @@
+# Ignore build artifacts
+build/
+*.o
+*.obj
+*.elf
+*.bin
+*.map
+*.a
+
+# ESP-IDF specific
+sdkconfig
+sdkconfig.old
+sdkconfig.defaults
+sdkconfig.ci.*
+dependencies.lock
+
+# VS Code config
+.vscode/
+
+# Dev containers
+.devcontainer/
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Misc
+*.log
+*.pyc
+__pycache__/
+.DS_Store
